@@ -1,0 +1,9 @@
+java
+selenium webdriver
+testng, Cucumber BDD, Maven[Framework]
+Jmeter---
+Agile---
+Git,Github
+Jira (tool)
+API testing (Postman, rest assured)
+mobile testing
