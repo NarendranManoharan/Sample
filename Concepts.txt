@@ -7,3 +7,4 @@ Git,Github
 Jira (tool)
 API testing (Postman, rest assured)
 mobile testing
+Karate Framework
