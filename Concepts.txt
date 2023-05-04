@@ -8,3 +8,5 @@ Jira (tool)
 API testing (Postman, rest assured)
 mobile testing
 Karate Framework
+Learn SoapUI
+Still Learning
